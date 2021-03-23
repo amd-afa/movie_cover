@@ -1,5 +1,5 @@
 import 'package:MovieCovers/bloc/popular_movie_bloc.dart';
-import 'package:MovieCovers/repository/movieRepositor.dart';
+import 'package:MovieCovers/repository/movieRepository.dart';
 import 'package:MovieCovers/screens/components/movie_list.dart';
 import 'package:MovieCovers/utils/const.dart';
 import 'package:MovieCovers/widgets/error_widget.dart';

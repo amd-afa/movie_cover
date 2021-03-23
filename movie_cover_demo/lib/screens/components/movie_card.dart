@@ -1,4 +1,4 @@
-import 'package:MovieCovers/model/Movie.dart';
+import 'package:MovieCovers/model/MovieModel.dart';
 import 'package:MovieCovers/utils/size_config.dart';
 import 'package:flutter/material.dart';
 

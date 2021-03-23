@@ -1,4 +1,4 @@
-import 'Movie.dart';
+import 'MovieModel.dart';
 
 class PopularMovieModel {
   int page;

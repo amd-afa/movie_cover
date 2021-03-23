@@ -1,5 +1,5 @@
 import 'package:MovieCovers/model/PopularMovieModel.dart';
-import 'package:MovieCovers/repository/movieRepositor.dart';
+import 'package:MovieCovers/repository/movieRepository.dart';
 import 'package:equatable/equatable.dart';
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
