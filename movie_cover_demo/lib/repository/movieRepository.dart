@@ -3,7 +3,7 @@ import 'package:dio/dio.dart';
 
 class MovieRepository {
   final String api = 'https://api.themoviedb.org';
-  final String apiKey = '927807c66df7eada6050595530e12fa9';
+  final String apiKey = '';
 
   Future<PopularMovieModel> getPopularMovies(int page, String language) async {
     final popularMovies = await Dio().get(
